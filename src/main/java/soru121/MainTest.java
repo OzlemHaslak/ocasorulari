@@ -1,7 +1,7 @@
 package soru121;
 
 public class MainTest {
-  /*  public static void main(int[] args) {
+ /*  public static void main(int[] args) {
         System.out.println("int main " + args[O]);
     }
     public static void main(Object[] args) {

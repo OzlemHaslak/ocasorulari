@@ -18,6 +18,4 @@ public class MyField {
             m2.doStuff(ml.x, ml.y);
             ml.display();
             m2 .display();
-
-
         }}

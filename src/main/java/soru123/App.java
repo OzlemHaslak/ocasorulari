@@ -1,7 +1,7 @@
 package soru123;
 
 public class App {
-    String myStr = "7007";
+    String myStr = "9009";
     public void doStuff(String str) {
         int myNum = 0;
         try {
@@ -15,5 +15,5 @@ public class App {
     }
     public static void main(String[] args) {
         App obj = new App();
-        obj.doStuff("9009") ;
+        obj.doStuff("7007") ;
 }}

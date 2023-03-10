@@ -8,9 +8,10 @@ public class soru129 {
             int div = 0;
             int ans = num / div;
         } catch (ArithmeticException ae) {
-            System.out.println( "exception"); //ans = 0; // line n1
+      //     ans = 0; // line n1
         } catch (Exception e) {
             System.out.println("Invalid calculation");
         }
-       System.out.println("Answer = " ); // line n2
+      // System.out.println("Answer = " + ans); // line n2
 }}
+//ans variable try catch disinda gorulmez o yuzden hata verir

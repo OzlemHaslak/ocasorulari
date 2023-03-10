@@ -5,7 +5,7 @@ public class Car extends Vehicle{
     int y;
     Car() {
         super () ;
-   //    this(20); // line n2
+    // this(20); // line n2  hangisini alacagini sasirir hata verir
     }
     Car(int y) {
         this.y = y;
@@ -22,3 +22,5 @@ public class Car extends Vehicle{
         System.out.println(y);
 
 }}
+
+
